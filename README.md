@@ -73,7 +73,7 @@ requirements.txt      Python dependencies
 ## Citing
 
 If you use this code, please cite the IGTD manuscript and the archived code release:
-https://doi.org/10.5281/zenodo.20085574.
+https://doi.org/10.5281/zenodo.20086129.
 
 ## License
 
