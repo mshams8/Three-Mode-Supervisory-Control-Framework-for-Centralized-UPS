@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Generated simulation artifacts (regenerable from run_sim.py / validation_study.py)
+*.png
+*.pdf
+*.csv
+artifacts/
+
+# Windows reserved-name accidents
+nul
+nul.*
+
+# Local config
+.env
+*.local
